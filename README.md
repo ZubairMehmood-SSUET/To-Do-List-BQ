@@ -10,5 +10,8 @@ This project helps users manage their daily tasks with a simple and user-friendl
 - Responsive layout for all devices
 - Smooth gradient background and clean UI
 
+## 🚀 Live Demo
+🔗 [View Deployed Site on Netlify](https://to-do-list-bq.netlify.app/)
+
 ## 🧑‍💻 Author
 **Zubair Mehmood**  
