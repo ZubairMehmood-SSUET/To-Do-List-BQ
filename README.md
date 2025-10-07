@@ -11,4 +11,4 @@ This project helps users manage their daily tasks with a simple and user-friendl
 - Smooth gradient background and clean UI
 
 ## 🧑‍💻 Author
-**Zubair**  
+**Zubair Mehmood**  
